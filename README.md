@@ -1,4 +1,4 @@
-# UnityAndroidNativeSample
+# Info
 Android native sample for unity
 
 # Android Studio Project
